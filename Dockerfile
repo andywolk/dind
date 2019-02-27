@@ -1,4 +1,4 @@
-FROM ubuntu:14.04
+FROM debian:stretch
 MAINTAINER jerome.petazzoni@docker.com
 
 # Let's start with some basic stuff.
